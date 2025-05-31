@@ -1,2 +1,0 @@
-# Medok
-MedOK
